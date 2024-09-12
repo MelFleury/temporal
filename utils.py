@@ -3,3 +3,6 @@ def saludar():
 
 def despedir():
     print("Adiów, soy otra función")
+
+def caminar():
+    print("Estoy caminando")
